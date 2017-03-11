@@ -1,2 +1,4 @@
 puts 'i am trying git'
 something else
+Name : Anuvinda Sreenivas
+Email : anjanum9@gmail.com
